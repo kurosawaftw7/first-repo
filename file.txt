@@ -1,1 +1,2 @@
 I'm a file.
+I'm an edited file.
